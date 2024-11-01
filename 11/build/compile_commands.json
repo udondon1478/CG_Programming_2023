@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/x22004xx/src/CGProgramming/src/11/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-g++-13  -isystem /opt/homebrew/Cellar/opencv/4.8.1_5/include/opencv4 -I/opt/homebrew/opt/opencv/include/opencv4 -g -arch arm64 -o CMakeFiles/main.dir/11.cpp.o -c /Users/x22004xx/src/CGProgramming/src/11/11.cpp",
+  "file": "/Users/x22004xx/src/CGProgramming/src/11/11.cpp",
+  "output": "CMakeFiles/main.dir/11.cpp.o"
+}
+]
